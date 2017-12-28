@@ -1,11 +1,12 @@
 body {
-    font-family: Helvetica, Arial, Sans-Serif;
-	text-rendering: optimizeLegibility;
+  margin-left: 16px;
+  font-family: Helvetica, Arial, Sans-Serif;
+  text-rendering: optimizeLegibility;
 
-	-webkit-font-variant-ligatures: common-ligatures;
-	font-variant-ligatures: common-ligatures;
+  -webkit-font-variant-ligatures: common-ligatures;
+  font-variant-ligatures: common-ligatures;
 
-    background-color: white;
+  background-color: white;
 }
 
 #wrapper {
